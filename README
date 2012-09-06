@@ -1,5 +1,8 @@
-<<<<<<< HEAD
-Test
-=======
-Hello World
->>>>>>> master
+- verschiedene Tests gemacht
+
+1. Repo erstellt lokal und auf git
+2. Datei README erstellt und commitet
+3. Datei geändert und commitet
+4. Branch "firstBranch" erstellt und auf git gepusht
+5. im Branch "firstBranch" ein Verzeichnis erstellt und commitet
+6. Merge von "firstBranch" -> "master"
